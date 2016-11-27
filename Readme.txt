@@ -1,1 +1,1 @@
-Project of the barbershop website.
+Adaptive version of the barbershop website.
